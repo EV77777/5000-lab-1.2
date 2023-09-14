@@ -1,0 +1,57 @@
+---
+title: "simple_quarto_website"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## My week
+
+really really busy
+
+## Class schedule
+
+## DSA Classes
+
+**Homework**，*Lab*。
+
+| hw  | lab    |
+|-----|--------|
+| R   | Python |
+
+-   hw1
+-   lab1
+    -   lab1.2
+-   hw2[^1]
+
+[^1]: diffucult
+
+| Monday   | Wednesday    |
+|----------|--------------|
+| Prob     | Optimization |
+| Modeling | DSA          |
+
+$F=pgV$
+
+$$ F = pgV $$
+
+> From Nature
+
+![](images/photo2.png)
+
+![](images/github-1.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wAV-vbHLn3Q" frameborder="0" allowfullscreen>
+
+</iframe>
+
+```{Mermaid}
+sequenceDiagram
+  A->>B: Hi
+  B-->>A: Hi
+
+
+
+```
+
+[\@10.1257/jep.27.2.3\]

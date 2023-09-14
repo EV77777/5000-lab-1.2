@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "simple_quarto_website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+
+
+# _quarto.yml
+
+output:
+  format: about.ipynb
+  html_document:
+    toc: true
+    biblio: "C:\\Users\\52595\\5000-lab-1.2\\simple_quarto_website\\reference.bib"
+
+options:
+  - mermaid
+
+
+

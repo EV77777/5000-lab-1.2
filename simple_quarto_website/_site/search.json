@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "slides/slides.html",
+    "href": "slides/slides.html",
+    "title": "My week",
+    "section": "",
+    "text": "really really busy"
+  },
+  {
+    "objectID": "slides/slides.html#class-schedule",
+    "href": "slides/slides.html#class-schedule",
+    "title": "My week",
+    "section": "Class schedule",
+    "text": "Class schedule\n\nDSA Classes\n[@10.1257/jep.27.2.3]\n \n\nimport matplotlib.pyplot as plt\n\nx_start, y_start = 0, 0\nx_end, y_end = 5, 5\n\nfig, ax = plt.subplots()\n\n# 绘制直线\nax.plot([x_start, x_end], [y_start, y_end], label='直线', linestyle='-', color='b')\n\n\n# 显示图形\nplt.show()"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "really really busy"
+  },
+  {
+    "objectID": "index.html#my-week",
+    "href": "index.html#my-week",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "really really busy"
+  },
+  {
+    "objectID": "index.html#class-schedule",
+    "href": "index.html#class-schedule",
+    "title": "simple_quarto_website",
+    "section": "Class schedule",
+    "text": "Class schedule"
+  },
+  {
+    "objectID": "index.html#dsa-classes",
+    "href": "index.html#dsa-classes",
+    "title": "simple_quarto_website",
+    "section": "DSA Classes",
+    "text": "DSA Classes\nHomework，Lab。\n\n\n\nhw\nlab\n\n\n\n\nR\nPython\n\n\n\n\nhw1\nlab1\n\nlab1.2\n\nhw21\n\n\n\n\nMonday\nWednesday\n\n\n\n\nProb\nOptimization\n\n\nModeling\nDSA\n\n\n\n\\(F=pgV\\)\n\\[ F = pgV \\]\n\nFrom Nature\n\n\n\n\n\nsequenceDiagram\n  A-&gt;&gt;B: Hi\n  B--&gt;&gt;A: Hi\n\n\n\n[@10.1257/jep.27.2.3]"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\ndiffucult↩︎"
+  }
+]
